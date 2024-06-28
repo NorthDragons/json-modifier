@@ -3,7 +3,7 @@ package org.example;
 import lombok.Data;
 
 @Data
-public class Analisis {
+public class Analysis {
     String domainCode;
     Integer analysisCodeType;
     String analysisCode;
